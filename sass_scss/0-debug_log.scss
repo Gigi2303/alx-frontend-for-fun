@@ -1,5 +1,9 @@
-/*Debug Log*/
+/* 0-debug_log.scss */
 /* Always debugging! */
-$greeting: 'Hello World';
 
-@debug $greeting;
+body {
+    margin: 0;
+  }
+  
+  @debug "Hello world";
+  
